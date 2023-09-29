@@ -2,7 +2,6 @@
 title: Index Page
 author: Arsalan Kazmi
 date: 2023-09-29
-layout: default
 ---
 
 # Welcome to this blog!
